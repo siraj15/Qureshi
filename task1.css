@@ -1,0 +1,26 @@
+
+
+.row1col1{
+    
+    display: inline-block;
+	margin-left:10%;
+	vertical-align:20%;
+	width:20%;
+	}
+
+.row1col2{
+    
+    display: inline-block;
+	margin-left: 10%;
+	width:20%;
+    
+	}
+	
+.container{
+	margin:auto;
+}
+button{
+	background-color: red;
+	width:50%;
+	border-width:0%;
+}
