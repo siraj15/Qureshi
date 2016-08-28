@@ -1,0 +1,28 @@
+body{
+    font-family: 'Athena';
+    width: 960px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+    margin-bottom:0;
+}
+section{
+   margin-top: 60px;
+   font-family: 'Oswald'; 
+   display: inline-block;
+}
+
+
+#heading {
+	font-size:50;
+	margin-top: 70px;
+	display: inline-block;
+	
+}
+ul{
+    list-style:none;
+}
+p {
+	font-size:18;
+}
